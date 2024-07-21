@@ -1,2 +1,2 @@
 # ML_Basic
-Multivariate linear regression
+Multivariate linear regression for prediction the Precipitation in Chosica, Lima. 
